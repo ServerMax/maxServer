@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <new_buff id="1001.000000" description="45078501.000000" description_tips="强化自身攻击10%" type="1.000000" state_type="" stackable_type="4.000000" priority="" delay="" count="1.000000" interval="" duration="9999.000000" remove_after_death="" skillid="" source_judge="1.000000" from_attr_type="3.000000" attr_type="3.000000" change_type="2.000000" attr_value="100.000000" return="1.000000" effect="" state_appear="" state_disappear="" icon="ui/png/skill_buff_icon/1001_charm.png" sound="" />
+</root>

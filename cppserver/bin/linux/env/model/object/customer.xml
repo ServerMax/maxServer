@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="sale_time"  type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="tick" type="s64" visual="true" share="false" save="true" important="true" />
+</root>

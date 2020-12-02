@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <dispatch_solt_team id="1001.000000" next_id="1002.000000" plot_kind="解锁第一个妖精队伍" plot_language="19101.000000" plot_name="队伍A" material_need="" cost_type="1.000000" cost_num="1.000000" />
+    <dispatch_solt_team id="1002.000000" next_id="1003.000000" plot_kind="解锁第二个妖精队伍" plot_language="19102.000000" plot_name="队伍B" material_need="" cost_type="6.000000" cost_num="100.000000" />
+    <dispatch_solt_team id="1003.000000" next_id="1004.000000" plot_kind="解锁第三个妖精队伍" plot_language="19103.000000" plot_name="队伍C" material_need="" cost_type="6.000000" cost_num="800.000000" />
+    <dispatch_solt_team id="1004.000000" next_id="1005.000000" plot_kind="解锁第四个妖精队伍" plot_language="19104.000000" plot_name="队伍D" material_need="" cost_type="2.000000" cost_num="2000.000000" />
+    <dispatch_solt_team id="1005.000000" next_id="-1.000000" plot_kind="解锁第五个妖精队伍" plot_language="19105.000000" plot_name="队伍E" material_need="" cost_type="2.000000" cost_num="8000.000000" />
+</root>

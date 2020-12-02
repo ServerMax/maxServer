@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="team_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="status" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="max_slot_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="map_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="start_million_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="end_million_time" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <table name="genies">
+    <column name="id" type="s64" key="true" />
+  </table>
+</root>

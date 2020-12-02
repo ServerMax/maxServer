@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="initial_hp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="hp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="hp_except_equip" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="initial_atk" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="atk" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="atk_except_equip" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="initial_def" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="def" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="def_except_equip" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="initial_crit_multiple" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="crit_multiple" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="crit_multiple_except_equip" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="initial_crit_probability" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="crit_probability" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="crit_probability_except_equip" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="injury_reduce" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="battle_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="target_role" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="team_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="formation_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="location_type" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="will_cast_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="weapon_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="damage_value" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="bear_damage_value" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="treatment_value" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="status" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="shield" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <table name="skill">
+    <column name="id" type="s64" key="true" />
+	<column name="range_type" type="s64" />
+	<column name="target_type" type="s64" />
+	<column name="target_choose_type" type="s64" />
+    <column name="last_cast_time" type="s64" />
+	<column name="lead_time" type="s64" />
+	<column name="cd" type="s64" />
+	<column name="pause_rest_cd" type="s64" />
+	<column name="suck_blood_ratio" type="s64" />
+	<column name="if_trigger_skill" type="bool" />
+  </table>
+  
+   <table name="unique_skill">
+    <column name="id" type="s64" key="true" />
+	<column name="range_type" type="s64" />
+	<column name="target_type" type="s64" />
+	<column name="target_choose_type" type="s64" />
+    <column name="last_cast_time" type="s64" />
+	<column name="lead_time" type="s64" />
+	<column name="cd" type="s64" />
+	<column name="pause_rest_cd" type="s64" />
+	<column name="duration_of_casting" type="s64" />
+	<column name="suck_blood_ratio" type="s64" />
+  </table>
+
+  <table name="combat_buff">
+    <column name="id" type="s64" key="true" />
+	<column name="value" type="s64" />
+  </table>
+  
+  <table name="shield">
+    <column name="id" type="s64" key="true" />
+	<column name="value" type="s64" />
+  </table>
+  
+  <table name="controlled_buff">
+    <column name="id" type="s64" key="true" />
+  </table>
+</root>

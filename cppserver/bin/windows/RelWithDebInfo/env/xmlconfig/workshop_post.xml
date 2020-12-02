@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <workshop_post id="1001.000000" shop_type="5.000000" cost="" workshop_id="30101.000000" text_id="" text="" />
+    <workshop_post id="1002.000000" shop_type="5.000000" cost="0.000000" workshop_id="30103.000000" text_id="14102.000000" text="升阶至3阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1003.000000" shop_type="5.000000" cost="30.000000" workshop_id="30105.000000" text_id="14103.000000" text="升阶至5阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1004.000000" shop_type="5.000000" cost="50.000000" workshop_id="30106.000000" text_id="14104.000000" text="升阶至6阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1011.000000" shop_type="1.000000" cost="" workshop_id="30201.000000" text_id="" text="" />
+    <workshop_post id="1012.000000" shop_type="1.000000" cost="20.000000" workshop_id="30203.000000" text_id="14102.000000" text="升阶至3阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1013.000000" shop_type="1.000000" cost="60.000000" workshop_id="30205.000000" text_id="14103.000000" text="升阶至5阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1014.000000" shop_type="1.000000" cost="100.000000" workshop_id="30206.000000" text_id="14104.000000" text="升阶至6阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1021.000000" shop_type="6.000000" cost="" workshop_id="30301.000000" text_id="" text="" />
+    <workshop_post id="1022.000000" shop_type="6.000000" cost="30.000000" workshop_id="30303.000000" text_id="14102.000000" text="升阶至3阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1023.000000" shop_type="6.000000" cost="90.000000" workshop_id="30305.000000" text_id="14103.000000" text="升阶至5阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1024.000000" shop_type="6.000000" cost="150.000000" workshop_id="30306.000000" text_id="14104.000000" text="升阶至6阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1031.000000" shop_type="2.000000" cost="" workshop_id="30401.000000" text_id="" text="" />
+    <workshop_post id="1032.000000" shop_type="2.000000" cost="40.000000" workshop_id="30403.000000" text_id="14102.000000" text="升阶至3阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1033.000000" shop_type="2.000000" cost="120.000000" workshop_id="30405.000000" text_id="14103.000000" text="升阶至5阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+    <workshop_post id="1034.000000" shop_type="2.000000" cost="200.000000" workshop_id="30406.000000" text_id="14104.000000" text="升阶至6阶工坊后解锁栏位（使用月亮石可提前解锁）" />
+</root>

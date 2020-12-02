@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <turntable id="60001.000000" reward_type="1.000000" ad_id="106.000000" cost_type="1.000000" cost_num="1.000000" reward_pool_id="61001,2000;61002,2000;61003,2000;61004,2000;61005,2000" first_time="08:00:00" ad_num_max="10.000000" />
+</root>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="map_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="start_million_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="end_million_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="exp_get" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="final_reward_num" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <table name="genies">
+    <column name="id" type="s64" key="true" />
+  </table>
+  
+  <table name="buff_reward">
+    <column name="config_id" type="s64" key="true" />
+    <column name="type" type="s64" />
+    <column name="count" type="s64" />
+  </table>
+
+  <table name="base_reward">
+    <column name="config_id" type="s64" key="true"  />
+    <column name="type" type="s64" />
+    <column name="count" type="s64" />
+  </table>
+</root>

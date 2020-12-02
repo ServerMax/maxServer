@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="name" type="string" size="64" visual="true" share="false" save="true" important="false" />
+  <attribute name="level" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="exp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="gold" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="diamond" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="genie_currency" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="create_time" type="string" size="64" visual="true" share="false" save="false" important="false" />
+  <attribute name="explore_teamsize" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="explore_strength_value" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="explore_strength_buy_times" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="explore_last_recovery_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="explore_last_buy_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="max_gold" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="task_complete_times" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="product_num" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="head_type" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="head_icon" type="string" size="256" visual="true" share="false" save="false" important="false" />
+  <attribute name="is_matching" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="boss_battle_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_battle_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="boss_battle_difficult_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="join_boss_battle_times" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="novice_version_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="is_req_mail_reward" type="bool" visual="true" share="false" save="false" important="false" />
+  <attribute name="daily_active_level" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="weekly_active_level" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="newbie_task_start_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="newbie_task_end_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="newbie_task_integral" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="market_config" type="s64" visual="true" share="false" save="true" important="false" />
+  <attribute name="market_status" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="market_sold" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="market_rate" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="market_sale" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="market_sale_end" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="market_last_time" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="order_config" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="order_praise" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="mergehouse_id" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="max_floor_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="max_floor_if_complete" type="bool" visual="true" share="false" save="false" important="false" />
+  <attribute name="tower_battle_id" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="max_plot_level_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="max_plot_level_if_complete" type="bool" visual="true" share="false" save="false" important="false" />
+  <attribute name="plot_level_battle_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="plot_level_gold_reward" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="plot_level_exp_reward" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_random_item_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_random_equipment_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_get_reward_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_calculate_reward_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="hang_up_battle_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="sweep_times" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="last_sweep_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="if_offline" type="bool" visual="true" share="false" save="false" important="false" />
+  <attribute name="offline_start_time" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="offline_end_time" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <attribute name="maze_id" type="s64" visual="true" share="false" save="false" important="false" />
+  <attribute name="maze_battle_id" type="s64" visual="true" share="false" save="false" important="false" />
+
+  <table name="customer">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="market">
+    <column name="item_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+  </table>
+
+  <table name="order">
+    <column name="block_id" type="s64" key="true" />
+    <column name="status" type="s64" />
+    <column name="order_id" type="s64" />
+    <column name="deadline" type="s64" />
+    <column name="interval" type="s64" />
+  </table>
+
+  <table name="warehouse">
+    <column name="config_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+  </table>
+
+  <table name="location">
+    <column name="config_id" type="s64" key="true" />
+    <column name="workshop_id" type="s64" />
+  </table>
+
+  <table name="workshop">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="task">
+    <column name="task_id" type="s64" key="true"/>
+    <column name="task_main_type" type="s64" />
+    <column name="task_type" type="s64" />
+    <column name="task_current_param" type="s64" />
+    <column name="task_target_param" type="s64" />
+    <column name="if_gain_reward" type="bool" />
+    <column name="start_day_time" type="s64" />
+    <column name="create_time" type="s64" />
+  </table>
+
+  <table name="genie">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="explore_tech">
+    <column name="config_id" type="s64" key="true" />
+  </table>
+
+  <table name="explore_map">
+    <column name="config_id" type="s64" key="true" />
+    <column name="max_plot_num" type="s64"/>
+  </table>
+
+  <table name="explore_plot_rewarded">
+    <column name="config_id" type="s64" key="true" />
+    <column name="explore_map_id" type="s64"/>
+  </table>
+
+  <table name="explore_team">
+    <column name="config_id" type="s64" key="true" />
+    <column name="battle_id" type="s64"/>
+    <column name="status" type="s64"/>
+    <column name="end_time" type="s64"/>
+  </table>
+
+  <table name="shelf">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="item" type="s64" />
+    <column name="price" type="s64" />
+    <column name="currency" type="s64" />
+    <column name="count" type="s64" />
+    <column name="create_time" type="s64" />
+    <column name="deadline" type="s64" />
+  </table>
+
+  <table name="novice">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="status" type="bool" />
+  </table>
+
+  <table name="draw_card">
+    <column name="id" type="s64" key="true" />
+    <column name="total_num" type="s64" />
+    <column name="free_num" type="s64" />
+    <column name="free_last_time" type="s64" />
+    <column name="sr_draw_num" type="s64" />
+    <column name="ssr_draw_num" type="s64" />
+  </table>
+
+  <table name="workshop_whole_buff">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="scale" type="s64" />
+    <column name="value" type="s64" />
+    <column name="repeat_count" type="s64" />
+  </table>
+
+  <table name="newbie_date_status">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="start_time" type="s64"/>
+    <column name="end_time" type="s64"/>
+  </table>
+
+  <table name="newbie_task">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="param" type="s64" />
+    <column name="need_param" type="s64" />
+    <column name="complete_status" type="bool"/>
+    <column name="receive_status" type="bool"/>
+    <column name="newbie_date_id" type="s64" />
+  </table>
+
+  <table name="advertise">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="watched_times" type="s64"/>
+    <column name="receive_times" type="s64"/>
+    <column name="finish_time" type="s64"/>
+  </table>
+
+  <table name="genie_book">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="acquire_time" type="s64"/>
+    <column name="is_check" type="s64"/>
+  </table>
+
+  <table name="workshop_book">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="acquire_time" type="s64"/>
+    <column name="is_check" type="s64"/>
+  </table>
+
+  <table name="item_book">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="acquire_time" type="s64"/>
+    <column name="is_check" type="s64"/>
+  </table>
+
+  <table name="boss_battle_genie">
+    <column name="genie_id" type="s64" key="true"/>
+  </table>
+
+  <table name="turnplate">
+    <column name="turnplate_id" type="s64" key="true"/>
+  </table>
+
+  <table name="activity">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="monster_book">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="acquire_time" type="s64"/>
+    <column name="is_check" type="s64"/>
+  </table>
+
+  <table name="store_purchased_product">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="store_purchased_loop_time_product">
+    <column name="id" type="s64" key="true" />
+    <column name="refresh_time" type="s64" />
+  </table>
+
+  <table name="active_level_info">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="type" type="s64"/>
+    <column name="is_receive" type="bool"/>
+  </table>
+
+  <table name="newbie_task_integral_info">
+    <column name="config_id" type="s64" key="true"/>
+    <column name="is_receive" type="bool"/>
+  </table>
+
+  <table name="equipment">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="tower_team_info">
+    <column name="genie_id" type="s64" key="true" />
+    <column name="seat" type="s64" />
+  </table>
+
+  <table name="plot_level_team_info">
+    <column name="genie_id" type="s64" key="true" />
+    <column name="seat" type="s64" />
+  </table>
+
+  <table name="last_plot_level_team_info">
+    <column name="genie_id" type="s64" key="true" />
+    <column name="seat" type="s64" />
+  </table>
+
+  <table name="dispatch">
+    <column name="id" type="s64" key="true" />
+    <column name="team_config_id" type="s64" />
+  </table>
+
+  <table name="dispatch_technology">
+    <column name="config_id" type="s64" key="true" />
+  </table>
+
+  <table name="dispatch_map">
+    <column name="config_id" type="s64" key="true" />
+  </table>
+
+  <table name="plot_level_item_reward">
+    <column name="config_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+  </table>
+
+  <table name="plot_level_equipment_reward">
+    <column name="config_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+  </table>
+  
+  <table name="workshop_offline_product">
+	<column name="config_id" type="s64" key="true" />
+	<column name="count" type="s64" />
+  </table>
+  
+  <table name="guide_task">
+	<column name="task_id" type="s64" key="true"/>
+    <column name="task_type" type="s64" />
+    <column name="task_current_param" type="s64" />
+    <column name="task_target_param" type="s64" />
+    <column name="if_gain_reward" type="bool" />
+	<column name="if_lock" type="bool" />
+  </table>
+  
+  <table name="guide_task_stage_reward">
+	<column name="config_id" type="s64" key="true"/>
+    <column name="if_gain_reward" type="bool" />
+  </table>
+</root>

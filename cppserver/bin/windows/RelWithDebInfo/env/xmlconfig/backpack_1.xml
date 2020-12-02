@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <backpack_1 id="1001.000000" level="1.000000" capacity="50.000000" next_id="1002.000000" level_up_need="null" cost_type="1.000000" cost="0.000000" />
+    <backpack_1 id="1002.000000" level="2.000000" capacity="100.000000" next_id="1003.000000" level_up_need="null" cost_type="1.000000" cost="500.000000" />
+    <backpack_1 id="1003.000000" level="3.000000" capacity="150.000000" next_id="1004.000000" level_up_need="null" cost_type="1.000000" cost="1000.000000" />
+    <backpack_1 id="1004.000000" level="4.000000" capacity="200.000000" next_id="1005.000000" level_up_need="null" cost_type="1.000000" cost="3000.000000" />
+    <backpack_1 id="1005.000000" level="5.000000" capacity="250.000000" next_id="1006.000000" level_up_need="null" cost_type="2.000000" cost="20.000000" />
+    <backpack_1 id="1006.000000" level="6.000000" capacity="300.000000" next_id="1007.000000" level_up_need="null" cost_type="2.000000" cost="40.000000" />
+    <backpack_1 id="1007.000000" level="7.000000" capacity="400.000000" next_id="1008.000000" level_up_need="null" cost_type="2.000000" cost="80.000000" />
+    <backpack_1 id="1008.000000" level="8.000000" capacity="500.000000" next_id="1009.000000" level_up_need="null" cost_type="2.000000" cost="160.000000" />
+    <backpack_1 id="1009.000000" level="9.000000" capacity="600.000000" next_id="1010.000000" level_up_need="null" cost_type="2.000000" cost="320.000000" />
+    <backpack_1 id="1010.000000" level="10.000000" capacity="700.000000" next_id="1011.000000" level_up_need="null" cost_type="2.000000" cost="640.000000" />
+    <backpack_1 id="1011.000000" level="11.000000" capacity="800.000000" next_id="1012.000000" level_up_need="null" cost_type="2.000000" cost="1280.000000" />
+    <backpack_1 id="1012.000000" level="12.000000" capacity="900.000000" next_id="1013.000000" level_up_need="null" cost_type="2.000000" cost="2560.000000" />
+    <backpack_1 id="1013.000000" level="13.000000" capacity="999.000000" next_id="-1.000000" level_up_need="null" cost_type="2.000000" cost="5120.000000" />
+</root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <novice_reward id="10001.000000" score_reward="30.000000" des="30001.000000" des_tip="达到30积分" reward="2,0,50;3,20010,10" />
+    <novice_reward id="10002.000000" score_reward="60.000000" des="30002.000000" des_tip="达到60积分" reward="2,0,100;3,20011,5" />
+    <novice_reward id="10003.000000" score_reward="100.000000" des="30003.000000" des_tip="达到100积分" reward="2,0,300;3,20011,10" />
+</root>

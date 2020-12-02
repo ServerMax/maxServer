@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <novice_date id="1101.000000" date="28001.000000" activity_date="第一天" task_list="1101,1102,1103,1104,1105,1106,1107" duration="10.000000" />
+    <novice_date id="1201.000000" date="28002.000000" activity_date="第二天" task_list="1201,1202,1203,1204,1205,1206,1207" duration="10.000000" />
+    <novice_date id="1301.000000" date="28003.000000" activity_date="第三天" task_list="1301,1302,1303,1304,1305,1306,1307" duration="10.000000" />
+    <novice_date id="1401.000000" date="28004.000000" activity_date="第四天" task_list="1401,1402,1403,1404,1405,1406,1407" duration="10.000000" />
+    <novice_date id="1501.000000" date="28005.000000" activity_date="第五天" task_list="1501,1502,1503,1504,1505,1506,1507" duration="10.000000" />
+    <novice_date id="1601.000000" date="28006.000000" activity_date="第六天" task_list="1601,1602,1603,1604,1605,1606,1607" duration="10.000000" />
+    <novice_date id="1701.000000" date="28007.000000" activity_date="第七天" task_list="1701,1702,1703,1704,1705,1706,1707" duration="10.000000" />
+</root>

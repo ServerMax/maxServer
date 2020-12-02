@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  
+  <table name="item">
+    <column name="config_id" type="s64" key="true" />
+    <column name="type" type="s64" />
+    <column name="name" type="string" size="64" />
+    <column name="price_min" type="s64" />
+    <column name="price_max" type="s64" />
+    <column name="frequency" type="s64" />
+    <column name="price" type="s64" />
+    <column name="last_tick" type="s64" />
+  </table>
+</root>

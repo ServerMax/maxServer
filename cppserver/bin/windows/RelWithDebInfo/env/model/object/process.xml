@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="workshop_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="product_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="work" type="bool" visual="true" share="false" save="true" important="true" />
+  <attribute name="product_count" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="exp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="time_spent" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="last_tick" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <attribute name="buff_raw_count" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="buff_product_count" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="buff_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="buff_workshop_exp" type="s64" visual="true" share="false" save="true" important="true" />
+  
+  <table name="extra_item">
+    <column name="item_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+    <column name="prob" type="s64" />
+    <column name="type" type="s64" />
+  </table>
+</root>

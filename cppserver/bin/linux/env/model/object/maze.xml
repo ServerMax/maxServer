@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+	<attribute name="plot_id" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="grade" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="monster_coeffi" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="status" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="score" type="s64" visual="true" share="false" save="true" important="true" />
+
+	<attribute name="special_plot" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="event_id" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="event_prob" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="stage_id" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="stage_prob" type="s64" visual="true" share="false" save="true" important="true" />
+	<attribute name="battle_coor" type="s64" visual="true" share="false" save="false" important="true" />
+
+	<table name="plot_info">
+		<column name="coor" type="s64" key="true"/>
+		<column name="plot_type" type="s64"/>
+		<column name="plot_status" type="s64"/>
+		<column name="is_end" type="bool"/>
+		<column name="config_id" type="s64"/>
+	</table>
+
+	<table name="tasks">
+		<column name="config_id" type="s64" key="true"/>
+		<column name="cur_num" type="s64"/>
+		<column name="target_num" type="s64"/>
+		<column name="status" type="s64"/>
+	</table>
+
+	<table name="parcel">
+		<column name="parcel_id" type="s64" key="true"/>
+		<column name="config_id" type="s64"/>
+		<column name="type" type="s64"/>
+		<column name="battle_use" type="s64"/>
+		<column name="have_num" type="s64"/>
+		<column name="used_num" type="s64"/>
+		<column name="total_use_num" type="s64"/>
+	</table>
+
+	<table name="genies_all">
+		<column name="temp_id" type="s64" key="true"/>
+		<column name="type" type="s64"/>
+		<column name="team_post" type="s64"/>
+		<column name="config_id" type="s64"/>
+		<column name="init_hp" type="s64"/>
+		<column name="extra_hp" type="s64"/>
+		<column name="cur_hp" type="s64"/>
+		<column name="init_attack" type="s64"/>
+		<column name="extra_attack" type="s64"/>
+		<column name="init_def" type="s64"/>
+		<column name="extra_def" type="s64"/>
+		<column name="init_crit_multiple" type="s64"/>
+		<column name="extra_crit_multiple" type="s64"/>
+		<column name="init_crit_pro" type="s64"/>
+		<column name="extra_crit_pro" type="s64"/>
+	</table>
+
+	<table name="cur_genies">
+		<column name="temp_id" type="s64" key="true"/>
+		<column name="team_post" type="s64"/>
+	</table>
+
+	<table name="maze_buff">
+		<column name="config_id" type="s64" key="true"/>
+		<column name="level" type="s64"/>
+		<column name="add_value" type="s64"/>
+		<column name="used_num" type="s64"/>
+		<column name="total_num" type="s64"/>
+	</table>
+
+	<table name="temporary_buff">
+		<column name="config_id" type="s64" key="true"/>
+	</table>
+
+</root>

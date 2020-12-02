@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <maze_refresh id="10001.000000" type="1.000000" config_id="20001.000000" maze_item="" />
+    <maze_refresh id="20002.000000" type="3.000000" config_id="30001.000000" maze_item="" />
+    <maze_refresh id="20003.000000" type="2.000000" config_id="20002.000000" maze_item="" />
+    <maze_refresh id="20004.000000" type="4.000000" config_id="" maze_item="40001,2000;40002,3000;40003,1000;40004,2000;40005,2000" />
+</root>

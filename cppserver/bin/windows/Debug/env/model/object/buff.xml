@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="account" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="host" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="value_diff" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <table name="item">
+    <column name="config_id" type="s64" key="true"  />
+    <column name="count" type="s64" />
+  </table>
+</root>

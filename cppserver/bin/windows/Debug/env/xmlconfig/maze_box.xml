@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <maze_box id="10001.000000" type="1.000000" maze_item_number="4.000000" maze_item="1,40014,2,2000;1,40015,2,3000;1,40003,2,1000;1,40006,2,2000;1,40007,2,2000" box_score="50.000000" resource="ui/png/item/treasure/red.png" difficulty_increasing="" />
+    <maze_box id="10002.000000" type="1.000000" maze_item_number="4.000000" maze_item="1,40008,2,2000;1,40009,2,3000;1,40010,2,1000;1,40011,2,2000;1,40007,2,2000" box_score="50.000000" resource="ui/png/item/treasure/red.png" difficulty_increasing="" />
+    <maze_box id="10003.000000" type="2.000000" maze_item_number="1.000000" maze_item="2,214013,1,2500;2,224013,1,2500;2,234013,1,2500;2,244013,1,2500" box_score="50.000000" resource="ui/png/genie_icon/gold/403_whiter_tiger.png" difficulty_increasing="" />
+</root>

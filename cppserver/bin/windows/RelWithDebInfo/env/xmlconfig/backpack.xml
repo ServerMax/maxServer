@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <backpack id="1001.000000" level="1.000000" capacity="10.000000" next_id="1002.000000" level_up_need="null" cost_type="1.000000" cost="0.000000" />
+    <backpack id="1002.000000" level="2.000000" capacity="20.000000" next_id="1003.000000" level_up_need="null" cost_type="1.000000" cost="300.000000" />
+    <backpack id="1003.000000" level="3.000000" capacity="30.000000" next_id="1004.000000" level_up_need="null" cost_type="1.000000" cost="10000.000000" />
+    <backpack id="1004.000000" level="4.000000" capacity="40.000000" next_id="1005.000000" level_up_need="null" cost_type="1.000000" cost="60000.000000" />
+    <backpack id="1005.000000" level="5.000000" capacity="50.000000" next_id="1006.000000" level_up_need="null" cost_type="1.000000" cost="150000.000000" />
+    <backpack id="1006.000000" level="6.000000" capacity="60.000000" next_id="1007.000000" level_up_need="null" cost_type="1.000000" cost="300000.000000" />
+    <backpack id="1007.000000" level="7.000000" capacity="70.000000" next_id="1008.000000" level_up_need="null" cost_type="1.000000" cost="1000000.000000" />
+    <backpack id="1008.000000" level="8.000000" capacity="80.000000" next_id="1009.000000" level_up_need="null" cost_type="1.000000" cost="2000000.000000" />
+    <backpack id="1009.000000" level="9.000000" capacity="90.000000" next_id="1010.000000" level_up_need="1,10006,20" cost_type="1.000000" cost="3000000.000000" />
+    <backpack id="1010.000000" level="10.000000" capacity="100.000000" next_id="1011.000000" level_up_need="1,10006,50" cost_type="1.000000" cost="4000000.000000" />
+    <backpack id="1011.000000" level="11.000000" capacity="105.000000" next_id="1012.000000" level_up_need="1,10007,20" cost_type="1.000000" cost="5000000.000000" />
+    <backpack id="1012.000000" level="12.000000" capacity="110.000000" next_id="1013.000000" level_up_need="1,10007,50" cost_type="2.000000" cost="10.000000" />
+    <backpack id="1013.000000" level="13.000000" capacity="115.000000" next_id="1014.000000" level_up_need="1,10008,20" cost_type="2.000000" cost="60.000000" />
+    <backpack id="1014.000000" level="14.000000" capacity="120.000000" next_id="-1.000000" level_up_need="1,10008,50" cost_type="2.000000" cost="300.000000" />
+</root>

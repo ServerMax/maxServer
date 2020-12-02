@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="team_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="plot_num" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="plot_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="map_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="is_pause" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="status" type="s64" visual="true" share="false" save="true" important="true" />
+  
+  <attribute name="end_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="battle_type" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="boss_battle_difficult_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="floor_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="if_auto" type="bool" visual="true" share="false" save="true" important="true" />
+
+  <table name="genie">
+    <column name="id" type="s64" key="true" />
+  </table>
+
+  <table name="role">
+    <column name="id" type="s64" key="true" />
+	<column name="team_id" type="s64" />
+	<column name="formation_id" type="s64" />
+	<column name="seat" type="s64" />
+	<column name="if_death" type="s64" />
+	<column name="location_type" type="s64" />
+	<column name="temp_id" type="s64" />
+  </table>
+
+  <table name="backpack_item">
+    <column name="config_id" type="s64" key="true" />
+    <column name="count" type="s64" />
+  </table>
+  
+  <table name="team">
+    <column name="id" type="s64" key="true" />
+	<column name="account" type="s64" />
+	<column name="team_name" type="string" size="64" />
+	<column name="team_head_type" type="s64" />
+	<column name="team_head_icon" type="string" size="256" />
+	<column name="is_robot" type="s64" />
+	<column name="total_damage" type="s64" />
+  </table>
+  
+  <table name="maze_team_average_attr">
+	<column name="battle_id" type="s64" key="true" />
+	<column name="hp" type="s64" />
+	<column name="atk" type="s64" />
+	<column name="def" type="s64" />
+  </table>
+</root>

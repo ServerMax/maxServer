@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <explore id="10010.000000" area_name="扭曲树林" area_language="16902.000000" area_before="-1.000000" area_after="10020.000000" energy="10.000000" unlock="" show_reward="30001;30601;30701" resource="ui/exploreLayer/explore_area/jungle.png" time_limit="600.000000" start_id="1001.000000" />
+    <explore id="10020.000000" area_name="荒芜高地" area_language="16908.000000" area_before="10010.000000" area_after="10030.000000" energy="10.000000" unlock="3020.000000" show_reward="30004;30602;30702" resource="ui/exploreLayer/explore_area/highland.png" time_limit="600.000000" start_id="2001.000000" />
+    <explore id="10030.000000" area_name="冰封之海" area_language="16915.000000" area_before="10020.000000" area_after="10040.000000" energy="10.000000" unlock="6030.000000" show_reward="30007;30603;30703" resource="ui/exploreLayer/explore_area/seabed.png" time_limit="600.000000" start_id="3001.000000" />
+    <explore id="10040.000000" area_name="无畏火山" area_language="16914.000000" area_before="10030.000000" area_after="10050.000000" energy="10.000000" unlock="9040.000000" show_reward="30010;30604;30704" resource="ui/exploreLayer/explore_area/volcano.png" time_limit="600.000000" start_id="4001.000000" />
+    <explore id="10050.000000" area_name="极寒之巅" area_language="16901.000000" area_before="10040.000000" area_after="-1.000000" energy="10.000000" unlock="12050.000000" show_reward="30013;30605;30705" resource="ui/exploreLayer/explore_area/snowfield.png" time_limit="600.000000" start_id="5001.000000" />
+</root>

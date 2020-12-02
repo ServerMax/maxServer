@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <explore_team id="1001.000000" next_id="1002.000000" front_id="-1.000000" level_up_need="null" cost_type="1.000000" cost="0.000000" backpack_id="1001.000000" genie_num="3.000000" />
+    <explore_team id="1002.000000" next_id="1003.000000" front_id="1001.000000" level_up_need="null" cost_type="1.000000" cost="5000.000000" backpack_id="1001.000000" genie_num="3.000000" />
+    <explore_team id="1003.000000" next_id="1004.000000" front_id="1002.000000" level_up_need="null" cost_type="1.000000" cost="50000.000000" backpack_id="1001.000000" genie_num="3.000000" />
+    <explore_team id="1004.000000" next_id="1005.000000" front_id="1003.000000" level_up_need="null" cost_type="2.000000" cost="500.000000" backpack_id="1001.000000" genie_num="3.000000" />
+    <explore_team id="1005.000000" next_id="-1.000000" front_id="1004.000000" level_up_need="null" cost_type="2.000000" cost="2500.000000" backpack_id="1001.000000" genie_num="3.000000" />
+</root>

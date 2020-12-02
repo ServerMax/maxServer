@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <active_reward id="10001.000000" type="2.000000" score_reward="20.000000" des="30101.000000" des_tip="活跃度达到20积分" reward="1,0,3000;2,0,10" />
+    <active_reward id="10002.000000" type="2.000000" score_reward="40.000000" des="30102.000000" des_tip="活跃度达到40积分" reward="1,0,8000;2,0,20" />
+    <active_reward id="10003.000000" type="2.000000" score_reward="60.000000" des="30103.000000" des_tip="活跃度达到60积分" reward="3,25001,1;2,0,30" />
+    <active_reward id="10004.000000" type="2.000000" score_reward="80.000000" des="30104.000000" des_tip="活跃度达到80积分" reward="3,25001,1;2,0,40" />
+    <active_reward id="10005.000000" type="2.000000" score_reward="100.000000" des="30105.000000" des_tip="活跃度达到100积分" reward="3,25001,1;2,0,60" />
+    <active_reward id="10006.000000" type="4.000000" score_reward="20.000000" des="30101.000000" des_tip="活跃度达到20积分" reward="1,0,20000;2,0,40" />
+    <active_reward id="10007.000000" type="4.000000" score_reward="40.000000" des="30102.000000" des_tip="活跃度达到40积分" reward="1,0,50000;2,0,80" />
+    <active_reward id="10008.000000" type="4.000000" score_reward="60.000000" des="30103.000000" des_tip="活跃度达到60积分" reward="3,25001,7;2,0,100" />
+    <active_reward id="10009.000000" type="4.000000" score_reward="80.000000" des="30104.000000" des_tip="活跃度达到80积分" reward="3,25001,4;2,0,150" />
+    <active_reward id="10010.000000" type="4.000000" score_reward="100.000000" des="30105.000000" des_tip="活跃度达到100积分" reward="3,25002,2;2,0,300" />
+</root>

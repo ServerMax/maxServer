@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="name" type="string" size="64" visual="true" share="false" save="true" important="false" />
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="grade" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="location" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="tick" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="build_end_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="if_building" type="bool" visual="true" share="false" save="true" important="true" />
+  <attribute name="build_config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="speed_time" type="s64" visual="true" share="false" save="true" important="true" />
+  
+  <table name="process">
+    <column name="product_id" type="s64" key="true" />
+    <column name="id" type="s64"/>
+  </table>
+  
+  <table name="genie_position">
+    <column name="position_id" type="s64" key="true" />
+    <column name="genie_id" type="s64" />
+	<column name="locked" type="bool" />
+  </table>
+</root>

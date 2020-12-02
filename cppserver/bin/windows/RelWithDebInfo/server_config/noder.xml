@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!--pipe_size单位kb, broadcast_interval单位秒-->
+  <config send_pipe_size="64" recv_pipe_size="1024" broadcast_interval="1" />
+  <master ip="127.0.0.1" port="6666" />
+  <relation>
+    <noder name="center" target="" />
+    <noder name="slb" target="" />
+    <noder name="gate" target="slb,gate,center" />
+    <noder name="game" target="gate,game,center" />
+    <noder name="cache" target="gate,game" />
+  </relation>
+</root> 

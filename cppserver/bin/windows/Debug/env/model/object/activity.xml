@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <attribute name="activity_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="activity_type" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="account" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="start_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="end_time" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="red_point" type="bool" visual="true" share="false" save="true" important="true" />
+  <attribute name="point_num" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="is_save" type="bool" visual="true" share="false" save="false" important="true" />
+  
+  <table name="common_task">
+    <column name="config_id" type="s64" key="true"  />
+	<column name="current_num" type="s64" />
+    <column name="target_num" type="s64" />
+    <column name="last_trigger_time" type="s64" />
+	<column name="start_time" type="s64" />
+    <column name="end_time" type="s64" />
+	<column name="status" type="s64" />
+  </table>
+  
+  <table name="buy_task">
+    <column name="config_id" type="s64" key="true"  />
+	<column name="current_num" type="s64" />
+    <column name="target_num" type="s64" />
+    <column name="last_trigger_time" type="s64" />
+	<column name="start_time" type="s64" />
+    <column name="end_time" type="s64" />
+	<column name="status" type="s64" />
+  </table>
+</root>

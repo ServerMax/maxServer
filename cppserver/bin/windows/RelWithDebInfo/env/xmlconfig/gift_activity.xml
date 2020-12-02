@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <gift_activity id="10001.000000" charge_type="2.000000" charge_id="10017.000000" name="95108.000000" name_tips="超值炫彩礼包" des="95105.000000" des_tips="地契、66666精魄、探索加速券、探索灵珠" gift_reward="3,20031,8;3,20022,1;3,20001,3;1,0,88888;3,20021,3" gift_resource="ui/activity/gift/RMB6.png" tip_des="" tip_resource="" cost_type="3.000000" cost="6.000000" open_date="2019-10-15 0:0:0" end_date="2020-9-15 23:59:59" />
+    <gift_activity id="10002.000000" charge_type="2.000000" charge_id="10018.000000" name="95110.000000" name_tips="加速整合礼包" des="95107.000000" des_tips="地契、加速券N张、精魄5M" gift_reward="2,0,200;3,20031,30;3,20021,1;3,20024,1;3,20023,2;3,20022,2;" gift_resource="ui/activity/gift/RMB38.png" tip_des="" tip_resource="" cost_type="3.000000" cost="30.000000" open_date="2019-10-15 0:0:0" end_date="2020-9-15 23:59:59" />
+    <gift_activity id="10003.000000" charge_type="2.000000" charge_id="10019.000000" name="95109.000000" name_tips="妖精馈赠礼包" des="95106.000000" des_tips="妖精令，妖王令" gift_reward="2,0,250;3,20011,15;3,20010,20" gift_resource="ui/activity/gift/RMB68.png" tip_des="" tip_resource="" cost_type="3.000000" cost="88.000000" open_date="2019-10-15 0:0:0" end_date="2020-9-15 23:59:59" />
+</root>

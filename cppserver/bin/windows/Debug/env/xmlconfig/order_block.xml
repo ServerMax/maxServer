@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <order_block id="1001.000000" field="1.000000" prev_id="0.000000" next_id="1002.000000" cost_type="4.000000" workshop_id="30501.000000" limit_id="16980.000000" limit_text="解锁茅草屋" cost="0.000000" />
+    <order_block id="1002.000000" field="2.000000" prev_id="1001.000000" next_id="1003.000000" cost_type="2.000000" workshop_id="30101.000000" limit_id="16981.000000" limit_text="解锁小木枋" cost="50.000000" />
+    <order_block id="1003.000000" field="3.000000" prev_id="1002.000000" next_id="1004.000000" cost_type="2.000000" workshop_id="30201.000000" limit_id="16982.000000" limit_text="解锁山泉" cost="300.000000" />
+    <order_block id="1004.000000" field="4.000000" prev_id="1003.000000" next_id="1005.000000" cost_type="2.000000" workshop_id="30111.000000" limit_id="16983.000000" limit_text="解锁书阁" cost="600.000000" />
+    <order_block id="1005.000000" field="5.000000" prev_id="1004.000000" next_id="1006.000000" cost_type="2.000000" workshop_id="30601.000000" limit_id="16984.000000" limit_text="解锁鲜花坊" cost="1200.000000" />
+    <order_block id="1006.000000" field="6.000000" prev_id="1005.000000" next_id="0.000000" cost_type="2.000000" workshop_id="30701.000000" limit_id="16985.000000" limit_text="解锁小渔屋" cost="2500.000000" />
+</root>

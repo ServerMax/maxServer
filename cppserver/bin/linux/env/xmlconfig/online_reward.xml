@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <online_reward id="1001.000000" next_id="1002.000000" time="180.000000" reward="3,20010,1" des="妖精令" />
+    <online_reward id="1002.000000" next_id="1003.000000" time="180.000000" reward="2,0,10" des="10月亮石" />
+    <online_reward id="1003.000000" next_id="1004.000000" time="180.000000" reward="2,0,30" des="30月亮石" />
+    <online_reward id="1004.000000" next_id="-1.000000" time="300.000000" reward="3,20011,1" des="妖王令" />
+</root>

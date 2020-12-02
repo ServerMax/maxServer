@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <boss_reward id="8001.000000" boss_reward="1,0,5000000;2,0,200" treasure_box="3,25003,1,10000" score_min="20000000.000000" />
+    <boss_reward id="8002.000000" boss_reward="1,0,3000000;2,0,100" treasure_box="3,25002,3,10000" score_min="15000000.000000" />
+    <boss_reward id="8003.000000" boss_reward="1,0,1500000;2,0,80" treasure_box="3,25002,2,10000" score_min="10000000.000000" />
+    <boss_reward id="8004.000000" boss_reward="1,0,800000;2,0,50" treasure_box="3,25002,1,10000" score_min="6000000.000000" />
+    <boss_reward id="8005.000000" boss_reward="1,0,500000;2,0,30" treasure_box="3,25001,3,10000" score_min="4000000.000000" />
+    <boss_reward id="8006.000000" boss_reward="1,0,300000;2,0,20" treasure_box="3,25001,3,10000" score_min="3000000.000000" />
+    <boss_reward id="8007.000000" boss_reward="1,0,200000;2,0,15" treasure_box="3,25001,2,10000" score_min="2500000.000000" />
+    <boss_reward id="8008.000000" boss_reward="1,0,100000;2,0,10" treasure_box="3,25001,2,10000" score_min="2000000.000000" />
+    <boss_reward id="8009.000000" boss_reward="1,0,50000;2,0,5" treasure_box="3,25001,1,10000" score_min="1000000.000000" />
+    <boss_reward id="8010.000000" boss_reward="1,0,30000" treasure_box="3,25001,1,10000" score_min="800000.000000" />
+    <boss_reward id="8011.000000" boss_reward="1,0,20000" treasure_box="" score_min="500000.000000" />
+    <boss_reward id="8012.000000" boss_reward="1,0,10000" treasure_box="" score_min="200000.000000" />
+    <boss_reward id="8013.000000" boss_reward="1,0,5000" treasure_box="" score_min="100000.000000" />
+    <boss_reward id="8014.000000" boss_reward="1,0,3000" treasure_box="" score_min="80000.000000" />
+    <boss_reward id="8015.000000" boss_reward="1,0,2000" treasure_box="" score_min="40000.000000" />
+    <boss_reward id="8016.000000" boss_reward="1,0,1000" treasure_box="" score_min="10000.000000" />
+    <boss_reward id="8017.000000" boss_reward="1,0,500" treasure_box="" score_min="0.000000" />
+</root>

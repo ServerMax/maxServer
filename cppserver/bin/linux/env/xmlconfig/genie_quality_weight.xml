@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <genie_quality_weight id="1.000000" weight="30.000000" />
+    <genie_quality_weight id="2.000000" weight="10.000000" />
+    <genie_quality_weight id="3.000000" weight="5.000000" />
+    <genie_quality_weight id="4.000000" weight="3.000000" />
+    <genie_quality_weight id="5.000000" weight="2.000000" />
+    <genie_quality_weight id="6.000000" weight="1.000000" />
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <advertise id="100.000000" adv_type="3.000000" is_draw="1.000000" watch_type="2.000000" cardpool="-1.000000" limit_time="20.000000" refresh_time="600.000000" reward_id="" advertise_type="1.000000" placement="FairyCard_all" reward_name="FairyCard_all" />
+    <advertise id="101.000000" adv_type="3.000000" is_draw="1.000000" watch_type="2.000000" cardpool="-1.000000" limit_time="5.000000" refresh_time="1800.000000" reward_id="" advertise_type="1.000000" placement="FairyKingCard_all" reward_name="FairyKingCard_all" />
+    <advertise id="102.000000" adv_type="2.000000" is_draw="0.000000" watch_type="1.000000" cardpool="-1.000000" limit_time="20.000000" refresh_time="600.000000" reward_id="2,0,5" advertise_type="1.000000" placement="Diamonds_ios" reward_name="Diamonds_ios" />
+    <advertise id="103.000000" adv_type="2.000000" is_draw="0.000000" watch_type="1.000000" cardpool="-1.000000" limit_time="5.000000" refresh_time="1800.000000" reward_id="3,20031,1" advertise_type="1.000000" placement="Contract_ios" reward_name="Contract_ios" />
+    <advertise id="104.000000" adv_type="1.000000" is_draw="0.000000" watch_type="1.000000" cardpool="-1.000000" limit_time="10.000000" refresh_time="600.000000" reward_id="3,20010,1" advertise_type="1.000000" placement="FairyCard_and" reward_name="FairyCard_and" />
+    <advertise id="105.000000" adv_type="1.000000" is_draw="0.000000" watch_type="1.000000" cardpool="-1.000000" limit_time="5.000000" refresh_time="1800.000000" reward_id="3,20011,1" advertise_type="1.000000" placement="FairyKingCard_and" reward_name="FairyKingCard_and" />
+    <advertise id="106.000000" adv_type="1.000000" is_draw="0.000000" watch_type="3.000000" cardpool="-1.000000" limit_time="10.000000" refresh_time="0.000000" reward_id="" advertise_type="1.000000" placement="Turntable_all" reward_name="Turntable_all" />
+    <advertise id="107.000000" adv_type="1.000000" is_draw="0.000000" watch_type="1.000000" cardpool="-1.000000" limit_time="30.000000" refresh_time="180.000000" reward_id="2,0,10" advertise_type="1.000000" placement="Diamonds_and" reward_name="Diamonds_and" />
+    <advertise id="108.000000" adv_type="3.000000" is_draw="0.000000" watch_type="4.000000" cardpool="-1.000000" limit_time="1.000000" refresh_time="3600.000000" reward_id="" advertise_type="1.000000" placement="SpeedCard_all" reward_name="SpeedCard_all" />
+</root>

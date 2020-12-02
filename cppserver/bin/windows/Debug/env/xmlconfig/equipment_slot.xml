@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <equipment_slot id="1001.000000" name="武器" language_id="50001.000000" equipment_type="1.000000" icon_res="" />
+    <equipment_slot id="1002.000000" name="护具" language_id="50004.000000" equipment_type="2.000000" icon_res="" />
+    <equipment_slot id="1003.000000" name="头盔" language_id="50002.000000" equipment_type="4.000000" icon_res="" />
+    <equipment_slot id="1004.000000" name="护甲" language_id="50005.000000" equipment_type="5.000000" icon_res="" />
+    <equipment_slot id="1005.000000" name="饰品" language_id="50003.000000" equipment_type="3.000000" icon_res="" />
+    <equipment_slot id="1006.000000" name="戒指" language_id="50006.000000" equipment_type="6.000000" icon_res="" />
+</root>

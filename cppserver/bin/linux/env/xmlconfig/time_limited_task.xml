@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <time_limited_task id="9001.000000" event_id="1001.000000" open_time="2020/02/14/12:00:00" close_time="2020/02/24/12:00:00" task_total_type="1.000000" activity_task_type="1.000000" content_id="3,40101,1" content_count="1.000000" task_reward="3,40102,1" des_language="18001.000000" des="获得1妖铁矿" buy_type="" buy_num="" param_num="1.000000" />
+    <time_limited_task id="9002.000000" event_id="1001.000000" open_time="" close_time="" task_total_type="2.000000" activity_task_type="1.000000" content_id="3,40102,1" content_count="" task_reward="" des_language="" des="兑换获得妖砖" buy_type="3,40102,1" buy_num="5.000000" param_num="1.000000" />
+</root>

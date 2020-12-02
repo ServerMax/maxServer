@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<root parent="Object">-->
+<root>
+  <attribute name="account" type="s64" visual="true" share="false" save="true" important="false" />
+  
+  <table name="buff">
+    <column name="config_id" type="s64" key="true" />
+    <column name="id" type="s64" />
+    <column name="repeat_count" type="s64" />
+  </table>
+</root>

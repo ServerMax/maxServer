@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <rookie_reward id="1001.000000" date="28001.000000" date_tips="第一天" reward="3,20010,10" des="妖精令x10" />
+    <rookie_reward id="1002.000000" date="28002.000000" date_tips="第二天" reward="4,223010,1" des="狰" />
+    <rookie_reward id="1003.000000" date="28003.000000" date_tips="第三天" reward="2,0,300" des="钻石x300" />
+    <rookie_reward id="1004.000000" date="28004.000000" date_tips="第四天" reward="3,20011,5" des="妖王令x5" />
+    <rookie_reward id="1005.000000" date="28005.000000" date_tips="第五天" reward="2,0,500" des="钻石x500" />
+    <rookie_reward id="1006.000000" date="28006.000000" date_tips="第六天" reward="3,20011,10" des="妖王令x10" />
+    <rookie_reward id="1007.000000" date="28007.000000" date_tips="第七天" reward="4,224009,1" des="九尾狐" />
+</root>

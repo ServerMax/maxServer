@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <maze_monster id="20001.000000" monster_team="260006;260007;260008;260009;260010" manster_place="1.000000" monster_icon_res="ui/png/genie_picture/101_doubleheadbeast.png" monster_score="50.000000" />
+    <maze_monster id="20002.000000" monster_team="260011;260012;260013" manster_place="3.000000" monster_icon_res="ui/png/genie_picture/101_doubleheadbeast.png" monster_score="50.000000" />
+    <maze_monster id="20003.000000" monster_team="260014;260015;260016;260017" manster_place="2.000000" monster_icon_res="ui/png/genie_picture/402_phoenix.png" monster_score="50.000000" />
+    <maze_monster id="20004.000000" monster_team="260018;260019;260020;260021;260022" manster_place="1.000000" monster_icon_res="ui/png/genie_picture/101_porcupine.png" monster_score="50.000000" />
+</root>

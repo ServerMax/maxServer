@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <world_boss_robot id="101.000000" head_type="1.000000" head_road="221012.000000" genie_id="221012;221022;221032" genie_level="50.000000" />
+    <world_boss_robot id="102.000000" head_type="1.000000" head_road="222011.000000" genie_id="222012;232012;242012" genie_level="40.000000" />
+    <world_boss_robot id="103.000000" head_type="1.000000" head_road="232013.000000" genie_id="222013;242013;242013" genie_level="60.000000" />
+    <world_boss_robot id="104.000000" head_type="1.000000" head_road="242013.000000" genie_id="242013;242013;232013" genie_level="50.000000" />
+    <world_boss_robot id="105.000000" head_type="1.000000" head_road="243011.000000" genie_id="243011;243011;223011" genie_level="20.000000" />
+    <world_boss_robot id="106.000000" head_type="1.000000" head_road="243011.000000" genie_id="243011;233011;232012" genie_level="40.000000" />
+    <world_boss_robot id="107.000000" head_type="1.000000" head_road="243011.000000" genie_id="252013;252013;243013" genie_level="100.000000" />
+    <world_boss_robot id="108.000000" head_type="1.000000" head_road="243011.000000" genie_id="252011;243011;232011" genie_level="10.000000" />
+    <world_boss_robot id="109.000000" head_type="1.000000" head_road="253011.000000" genie_id="251011;241011;231021" genie_level="20.000000" />
+    <world_boss_robot id="110.000000" head_type="1.000000" head_road="253011.000000" genie_id="233013;232013;231022" genie_level="80.000000" />
+    <world_boss_robot id="111.000000" head_type="1.000000" head_road="253012.000000" genie_id="253012;243012;242013" genie_level="50.000000" />
+    <world_boss_robot id="112.000000" head_type="1.000000" head_road="243011.000000" genie_id="243011;243011;242012" genie_level="40.000000" />
+    <world_boss_robot id="113.000000" head_type="1.000000" head_road="243011.000000" genie_id="223012;243012;233013" genie_level="60.000000" />
+    <world_boss_robot id="114.000000" head_type="1.000000" head_road="243011.000000" genie_id="254011;244011;234013" genie_level="10.000000" />
+    <world_boss_robot id="115.000000" head_type="1.000000" head_road="233011.000000" genie_id="244013;243013;242013" genie_level="80.000000" />
+    <world_boss_robot id="116.000000" head_type="1.000000" head_road="233011.000000" genie_id="252013;252013;252013" genie_level="80.000000" />
+    <world_boss_robot id="117.000000" head_type="1.000000" head_road="233012.000000" genie_id="242013;242013;242013" genie_level="80.000000" />
+    <world_boss_robot id="118.000000" head_type="1.000000" head_road="244011.000000" genie_id="244012;254012;224011" genie_level="60.000000" />
+    <world_boss_robot id="119.000000" head_type="1.000000" head_road="254011.000000" genie_id="254011;253012;252013" genie_level="50.000000" />
+    <world_boss_robot id="120.000000" head_type="1.000000" head_road="224013.000000" genie_id="224013;254013;244013" genie_level="80.000000" />
+</root>

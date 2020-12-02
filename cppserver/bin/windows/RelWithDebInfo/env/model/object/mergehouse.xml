@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="exp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="location" type="s64" visual="true" share="false" save="true" important="true" />
+
+  <table name="paper">
+    <column name="config_id" type="s64" key="true" />
+    <column name="product_id" type="s64" />
+    <column name="count" type="s64" />
+	<column name="end_time" type="s64" />
+	<column name="speed_time" type="s64" />
+	<column name="start_time" type="s64" />
+	<column name="complete_status" type="bool" />
+  </table>
+</root>

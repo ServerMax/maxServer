@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="value" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="from_role" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="target_role" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="type" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="attr_type" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="if_return" type="s64" visual="false" share="false" save="false" important="false" />
+  <attribute name="state_probability" type="s64" visual="false" share="false" save="false" important="false" />
+</root>

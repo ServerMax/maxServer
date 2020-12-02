@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <post id="20001.000000" shop_id="" post_type="" name="14031.000000" name_tips="学徒" buff_id="" res_post="ui/png/post/1.png" coefficient="0.000000" />
+    <post id="20002.000000" shop_id="" post_type="" name="14032.000000" name_tips="伙计" buff_id="" res_post="ui/png/post/2.png" coefficient="0.000000" />
+    <post id="20003.000000" shop_id="" post_type="" name="14033.000000" name_tips="工人" buff_id="" res_post="ui/png/post/3.png" coefficient="0.000000" />
+    <post id="20004.000000" shop_id="" post_type="" name="14034.000000" name_tips="工匠" buff_id="" res_post="ui/png/post/4.png" coefficient="0.000000" />
+    <post id="20005.000000" shop_id="" post_type="" name="14035.000000" name_tips="大师" buff_id="" res_post="ui/png/post/5.png" coefficient="0.000000" />
+</root>

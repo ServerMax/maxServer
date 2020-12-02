@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="exp" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="level" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="grade" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="status" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="workshop_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="position" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="adventure" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="dispatch_team" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="lock" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="is_boss" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="team_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="power" type="s64" visual="true" share="false" save="false" important="true" />
+  <attribute name="save" type="bool" visual="true" share="false" save="false" important="false" />
+  
+  <table name="equipment_slot">
+    <column name="config_id" type="s64" key="true"/>
+	<column name="equipment_id" type="s64"/>
+  </table>
+</root>

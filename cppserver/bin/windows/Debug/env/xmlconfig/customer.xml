@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <customer id="1001.000000" purchase_cd="2.000000" promotion_cd="1.000000" />
+    <customer id="1002.000000" purchase_cd="3.000000" promotion_cd="1.000000" />
+    <customer id="1003.000000" purchase_cd="4.000000" promotion_cd="2.000000" />
+    <customer id="1004.000000" purchase_cd="5.000000" promotion_cd="2.000000" />
+    <customer id="1005.000000" purchase_cd="6.000000" promotion_cd="2.000000" />
+    <customer id="1006.000000" purchase_cd="8.000000" promotion_cd="3.000000" />
+    <customer id="1007.000000" purchase_cd="9.000000" promotion_cd="3.000000" />
+    <customer id="1008.000000" purchase_cd="10.000000" promotion_cd="4.000000" />
+</root>

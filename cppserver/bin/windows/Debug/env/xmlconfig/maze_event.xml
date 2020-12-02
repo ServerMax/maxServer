@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <maze_event id="30001.000000" title="" type="4.000000" language_id="" language="" collect_id="" collect_genie="" buff_reward="" reward="" reward_type="" res="" maze_stage_id="20002.000000" event_score="" difficulty_increasing="" />
+    <maze_event id="30002.000000" title="遗失的密码箱" type="4.000000" language_id="" language="" collect_id="" collect_genie="" buff_reward="" reward="" reward_type="" res="" maze_stage_id="20001.000000" event_score="" difficulty_increasing="" />
+</root>

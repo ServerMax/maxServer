@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <module name="buff">
+    <file name="header.h" />
+    <file name="buff.h" />
+    <file name="buff.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="configer">
+    <file name="header.h" />
+    <file name="configer.h" />
+    <file name="configer.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="event">
+    <file name="header.h" />
+    <file name="event.h" />
+    <file name="event.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="game">
+    <file name="header.h" />
+    <file name="game.h" />
+    <file name="game.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="gate">
+    <file name="header.h" />
+    <file name="gate.h" />
+    <file name="gate.cpp" />
+    <file name="wsclient.h" />
+    <file name="wsclient.cpp" />
+    <file name="client.h" />
+    <file name="client.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="idmanager">
+    <file name="header.h" />
+    <file name="idmanager.h" />
+    <file name="idmanager.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="master">
+    <file name="header.h" />
+    <file name="master.h" />
+    <file name="master.cpp" />
+    <file name="idmanager.h" />
+    <file name="idmanager.cpp" />
+    <file name="masterSession.h" />
+    <file name="masterSession.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="model">
+    <file name="header.h" />
+    <file name="memony.h" />
+    <file name="model.h" />
+    <file name="model.cpp" />
+    <file name="row.h" />
+    <file name="row.cpp" />
+    <file name="table.h" />
+    <file name="table.cpp" />
+    <file name="unit.h" />
+    <file name="unit.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="noder">
+    <file name="header.h" />
+    <file name="noder.h" />
+    <file name="noder.cpp" />
+    <file name="noderSession.h" />
+    <file name="noderSession.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="presen">
+    <file name="header.h" />
+    <file name="presen.h" />
+    <file name="presen.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="redis">
+    <file name="header.h" />
+    <file name="redis.h" />
+    <file name="redis.cpp" />
+    <file name="rediser.h" />
+    <file name="rediser.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="rudper">
+    <file name="header.h" />
+    <file name="ikcp.h" />
+    <file name="ikcp.c" />
+    <file name="rudper.h" />
+    <file name="rudper.cpp" />
+    <file name="rudperAccepter.h" />
+    <file name="rudperAccepter.cpp" />
+    <file name="rudperConnection.h" />
+    <file name="rudperConnection.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="rudpTest">
+    <file name="header.h" />
+    <file name="rudpTest.h" />
+    <file name="rudpTest.cpp" />
+    <file name="rudpServer.h" />
+    <file name="rudpServer.cpp" />
+    <file name="rudpSession.h" />
+    <file name="rudpSession.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="shareMemoryTest1">
+    <file name="header.h" />
+    <file name="shareMemoryTest1.h" />
+    <file name="shareMemoryTest1.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="shareMemoryTest2">
+    <file name="header.h" />
+    <file name="shareMemoryTest2.h" />
+    <file name="shareMemoryTest2.cpp" />
+    <file name="main.cpp" />
+  </module>
+  <module name="webSocket">
+    <file name="header.h" />
+    <file name="webSocket.h" />
+    <file name="webSocket.cpp" />
+    <file name="webSocketServer.h" />
+    <file name="webSocketServer.cpp" />
+    <file name="webSocketSession.h" />
+    <file name="webSocketSession.cpp" />
+    <file name="main.cpp" />
+  </module>
+</root>

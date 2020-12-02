@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root parent="object">
+  <attribute name="config_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="genie_id" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="level" type="s64" visual="true" share="false" save="true" important="true" />
+  <attribute name="is_lock" type="bool" visual="true" share="false" save="true" important="true" />
+  <attribute name="need_save" type="bool" visual="true" share="false" save="true" important="true" />
+  
+  <table name="additional_attributes">
+    <column name="config_id" type="s64" key="true"/>
+	<column name="type" type="s64"/>
+	<column name="count" type="s64"/>
+  </table>
+</root>

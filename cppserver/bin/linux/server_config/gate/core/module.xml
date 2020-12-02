@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root path="./">
+  <module name="noder"/>
+  <module name="gate"/>
+  <module name="redis"/>
+  <module name="db"/>
+  <module name="dbconfig"/>
+  <module name="sensitive"/>
+</root>

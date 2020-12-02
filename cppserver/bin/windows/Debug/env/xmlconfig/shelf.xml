@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <shelf shop_id="101.000000" unlock_currency="4.000000" unlock_price="-1.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="102.000000" unlock_currency="1.000000" unlock_price="1000000.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="103.000000" unlock_currency="1.000000" unlock_price="5000000.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="104.000000" unlock_currency="2.000000" unlock_price="888.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="105.000000" unlock_currency="2.000000" unlock_price="2888.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="106.000000" unlock_currency="2.000000" unlock_price="5888.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+    <shelf shop_id="107.000000" unlock_currency="2.000000" unlock_price="9888.000000" time_vip1="43200.000000" time_vip2="86400.000000" deposit_type="1.000000" deposit_price="50000.000000" />
+</root>

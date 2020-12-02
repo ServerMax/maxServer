@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <warehouse id="1001.000000" level="1.000000" capacity="40.000000" next_id="1002.000000" level_up_need="null" cost_type="1.000000" cost="0.000000" />
+    <warehouse id="1002.000000" level="2.000000" capacity="80.000000" next_id="1003.000000" level_up_need="null" cost_type="1.000000" cost="300.000000" />
+    <warehouse id="1003.000000" level="3.000000" capacity="120.000000" next_id="1004.000000" level_up_need="null" cost_type="1.000000" cost="10000.000000" />
+    <warehouse id="1004.000000" level="4.000000" capacity="160.000000" next_id="1005.000000" level_up_need="null" cost_type="1.000000" cost="60000.000000" />
+    <warehouse id="1005.000000" level="5.000000" capacity="200.000000" next_id="1006.000000" level_up_need="null" cost_type="1.000000" cost="150000.000000" />
+    <warehouse id="1006.000000" level="6.000000" capacity="240.000000" next_id="1007.000000" level_up_need="null" cost_type="1.000000" cost="300000.000000" />
+    <warehouse id="1007.000000" level="7.000000" capacity="280.000000" next_id="1008.000000" level_up_need="null" cost_type="1.000000" cost="1000000.000000" />
+    <warehouse id="1008.000000" level="8.000000" capacity="320.000000" next_id="1009.000000" level_up_need="null" cost_type="1.000000" cost="2000000.000000" />
+    <warehouse id="1009.000000" level="9.000000" capacity="360.000000" next_id="1010.000000" level_up_need="1,10006,20" cost_type="1.000000" cost="3000000.000000" />
+    <warehouse id="1010.000000" level="10.000000" capacity="400.000000" next_id="1011.000000" level_up_need="1,10006,50" cost_type="1.000000" cost="4000000.000000" />
+    <warehouse id="1011.000000" level="11.000000" capacity="440.000000" next_id="1012.000000" level_up_need="1,10007,20" cost_type="1.000000" cost="5000000.000000" />
+    <warehouse id="1012.000000" level="12.000000" capacity="480.000000" next_id="1013.000000" level_up_need="1,10007,50" cost_type="1.000000" cost="10000000.000000" />
+    <warehouse id="1013.000000" level="13.000000" capacity="520.000000" next_id="1014.000000" level_up_need="1,10008,20" cost_type="1.000000" cost="40000000.000000" />
+    <warehouse id="1014.000000" level="14.000000" capacity="560.000000" next_id="1015.000000" level_up_need="1,10008,30" cost_type="1.000000" cost="80000000.000000" />
+    <warehouse id="1015.000000" level="15.000000" capacity="600.000000" next_id="1016.000000" level_up_need="1,10008,50" cost_type="1.000000" cost="100000000.000000" />
+    <warehouse id="1016.000000" level="16.000000" capacity="640.000000" next_id="1017.000000" level_up_need="1,40104,50" cost_type="2.000000" cost="100.000000" />
+    <warehouse id="1017.000000" level="17.000000" capacity="680.000000" next_id="1018.000000" level_up_need="1,40004,50" cost_type="2.000000" cost="300.000000" />
+    <warehouse id="1018.000000" level="18.000000" capacity="720.000000" next_id="1019.000000" level_up_need="1,40204,50" cost_type="2.000000" cost="500.000000" />
+    <warehouse id="1019.000000" level="19.000000" capacity="760.000000" next_id="1020.000000" level_up_need="1,40804,50" cost_type="2.000000" cost="700.000000" />
+    <warehouse id="1020.000000" level="20.000000" capacity="800.000000" next_id="1021.000000" level_up_need="1,40304,50" cost_type="2.000000" cost="900.000000" />
+    <warehouse id="1021.000000" level="21.000000" capacity="840.000000" next_id="1022.000000" level_up_need="1,40105,50" cost_type="2.000000" cost="1100.000000" />
+    <warehouse id="1022.000000" level="22.000000" capacity="880.000000" next_id="1023.000000" level_up_need="1,40005,50" cost_type="2.000000" cost="1300.000000" />
+    <warehouse id="1023.000000" level="23.000000" capacity="920.000000" next_id="1024.000000" level_up_need="1,40205,50" cost_type="2.000000" cost="1500.000000" />
+    <warehouse id="1024.000000" level="24.000000" capacity="960.000000" next_id="1025.000000" level_up_need="1,40805,50" cost_type="2.000000" cost="1700.000000" />
+    <warehouse id="1025.000000" level="25.000000" capacity="1000.000000" next_id="-1.000000" level_up_need="1,40305,50" cost_type="2.000000" cost="1900.000000" />
+</root>

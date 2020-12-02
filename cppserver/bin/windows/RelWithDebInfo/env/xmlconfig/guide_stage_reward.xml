@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <guide_stage_reward id="10001.000000" task_number="3.000000" reward="7,10103,1" />
+    <guide_stage_reward id="10002.000000" task_number="6.000000" reward="7,10203,1" />
+    <guide_stage_reward id="10003.000000" task_number="9.000000" reward="7,10303,1" />
+    <guide_stage_reward id="10004.000000" task_number="12.000000" reward="7,10403,1" />
+    <guide_stage_reward id="10005.000000" task_number="16.000000" reward="7,50203,1" />
+</root>

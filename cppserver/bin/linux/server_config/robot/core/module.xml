@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root path="./">
+  <module name="event"/>
+  <module name="configer"/>
+  <module name="idmanager"/>
+  <module name="model"/>
+  <module name="robot"/>
+  <module name="robot_role"/>
+  <module name="robot_warehouse"/>
+  <module name="robot_workshop"/>
+  <module name="robot_task"/>
+  <module name="robot_battle"/>
+  <module name="robot_mail"/>
+  <module name="robot_newbie_task"/>
+  <module name="robot_genie"/>
+  <module name="robot_explore"/>
+  <module name="robot_mergehouse"/>
+  <module name="robot_equipment"/>
+  <module name="robot_tower"/>
+  <module name="robot_dispatch"/>
+</root>

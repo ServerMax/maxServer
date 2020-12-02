@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <order_type order_type_id="101.000000" order_content="1001,5000;1002,3500;1003,1000;1004,500" />
+    <order_type order_type_id="102.000000" order_content="1011,5000;1012,3500;1013,1000;1014,500" />
+    <order_type order_type_id="103.000000" order_content="1021,5000;1022,3500;1023,1000;1024,500" />
+    <order_type order_type_id="104.000000" order_content="1031,5000;1032,3500;1033,1000;1034,500" />
+    <order_type order_type_id="105.000000" order_content="1041,5000;1042,3500;1043,1000;1044,500" />
+    <order_type order_type_id="106.000000" order_content="1051,5000;1052,3500;1053,1000;1054,500" />
+    <order_type order_type_id="107.000000" order_content="1061,5000;1062,3500;1063,1000;1065,500" />
+    <order_type order_type_id="108.000000" order_content="1071,5000;1072,3500;1073,1000;1074,500" />
+    <order_type order_type_id="109.000000" order_content="1081,5000;1082,3500;1083,1000;1084,500" />
+    <order_type order_type_id="110.000000" order_content="1091,5000;1092,3500;1093,1000;1094,500" />
+    <order_type order_type_id="111.000000" order_content="1101,5000;1102,3500;1103,1000;1104,500" />
+    <order_type order_type_id="201.000000" order_content="2001,10000" />
+    <order_type order_type_id="202.000000" order_content="2002,10000" />
+    <order_type order_type_id="203.000000" order_content="2003,10000" />
+    <order_type order_type_id="204.000000" order_content="2004,10000" />
+    <order_type order_type_id="205.000000" order_content="2005,10000" />
+</root>
