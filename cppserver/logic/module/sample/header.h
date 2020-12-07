@@ -1,16 +1,15 @@
 /* 
 * File:   header.h
-* Author : mx
+* Author : max
 *
-* Created on 2020-12-01 09:14:04
+* Created on 2020-12-02 16:17:10
 */
 
 #ifndef __header_h__
 #define __header_h__
 
 #include "tools.h"
-#include "iCSharpNetTest.h"
-#include "test.pb.h"
+#include "iSample.h"
 
 using namespace tcore;
 

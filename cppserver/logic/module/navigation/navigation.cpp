@@ -1,6 +1,6 @@
 #include "navigation.h"
 #include "navmesh.h"
-#include "Header.h"
+#include "header.h"
 #include <map>
 tcore::api::iCore * g_core = nullptr;
 

@@ -19,9 +19,10 @@ set(proto
 
 set(interface
     ${interface}
-    "${PROJECT_SOURCE_DIR}/logic/interface/iCSharpNetTest.h"
+    "${PROJECT_SOURCE_DIR}/logic/interface/iSample.h"
     "${PROJECT_SOURCE_DIR}/logic/interface/iNavigation.h"
 )
 
-ADD_SUBDIRECTORY(${PROJECT_SOURCE_DIR}/logic/module/CSharpNetTest)
 ADD_SUBDIRECTORY(${PROJECT_SOURCE_DIR}/logic/module/navigation)
+
+ADD_SUBDIRECTORY(${PROJECT_SOURCE_DIR}/logic/module/sample)
