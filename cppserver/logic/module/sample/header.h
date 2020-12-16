@@ -15,4 +15,16 @@ using namespace tcore;
 
 extern api::iCore * g_core;
 
+namespace config {
+	enum id {
+		eTimerTest1 = 1,
+		eTimerTest2 = 2
+	};
+
+	const int second = 1000;
+	const int minute = second * 60;
+	const int hour = minute * 60;
+}
+
+
 #endif //__header_h__
