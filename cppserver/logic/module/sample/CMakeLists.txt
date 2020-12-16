@@ -10,8 +10,8 @@ set(sample
     "${PROJECT_SOURCE_DIR}/logic/module/sample/tcpClient.cpp"
     "${PROJECT_SOURCE_DIR}/logic/module/sample/tcpServer.h"
     "${PROJECT_SOURCE_DIR}/logic/module/sample/tcpServer.cpp"
-    "${PROJECT_SOURCE_DIR}/logic/module/sample/timer.h"
-    "${PROJECT_SOURCE_DIR}/logic/module/sample/timer.cpp"
+    "${PROJECT_SOURCE_DIR}/logic/module/sample/timerTest.h"
+    "${PROJECT_SOURCE_DIR}/logic/module/sample/timerTest.cpp"
     "${PROJECT_SOURCE_DIR}/logic/module/sample/main.cpp"
 )
 
