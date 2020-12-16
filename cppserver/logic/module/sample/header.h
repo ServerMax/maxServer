@@ -18,7 +18,9 @@ extern api::iCore * g_core;
 namespace config {
 	enum id {
 		eTimerTest1 = 1,
-		eTimerTest2 = 2
+		eTimerTest2 = 2,
+		eTcpClientTest = 3,
+		eTcpClientClose = 4
 	};
 
 	const int second = 1000;

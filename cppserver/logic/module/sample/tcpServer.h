@@ -10,8 +10,14 @@
 
 #include "header.h"
 
-class tcpServer {
+class tcpServer : public api::iTcpServer {
 public:
+	virtual ~tcpServer() {}
+
+	virtual api::iTcpSession* onMallocConnection(api::iCore* core, const char* remote_ip, const s32 remote_port);
+	virtual void onError(api::iCore* core, api::iTcpSession* session);
+	virtual void onRelease(api::iCore* core);
+
 };
 
 #endif //__tcpServer_h__
