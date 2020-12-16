@@ -38,6 +38,8 @@ bool sample::launch(api::iCore * core) {
 
 	//启动定时器， 每100毫秒往服务器尝试链接
 	start_timer(core, this, config::id::eTcpClientTest, 20, forever, 20);
+
+	//看懂这些 后面api里的接口 基本就可以自行摸索了
     return true;
 }
 
