@@ -140,14 +140,25 @@ IF(WIN32)
         optimized "${PROJECT_SOURCE_DIR}/library/release/libprotobuf.lib"
     )
 ELSEIF(UNIX)
-    SET(libcurl
-        debug "/usr/lib64/libcurl.so"
-        optimized "/usr/lib64/libcurl.so"
-    )
-    SET(libprotobuf
-        debug "/usr/local/lib64/libprotobuf.a"
-        optimized "/usr/local/lib64/libprotobuf.a"
-    )
+    IF(CMAKE_CL_64)
+        SET(libcurl
+            debug "/usr/lib64/libcurl.so"
+            optimized "/usr/lib64/libcurl.so"
+        )
+        SET(libprotobuf
+            debug "/usr/local/lib64/libprotobuf.a"
+            optimized "/usr/local/lib64/libprotobuf.a"
+        )
+    ELSE(CMAKE_CL_32)
+        SET(libcurl
+            debug "/usr/lib/libcurl.so"
+            optimized "/usr/lib/libcurl.so"
+        )
+        SET(libprotobuf
+            debug "/usr/local/lib/libprotobuf.a"
+            optimized "/usr/local/lib/libprotobuf.a"
+        )
+    ENDIF(CMAKE_CL_64)
 ENDIF()
 
 ADD_SUBDIRECTORY(${PROJECT_SOURCE_DIR}/logic)
